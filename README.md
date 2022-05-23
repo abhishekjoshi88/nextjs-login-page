@@ -4,6 +4,8 @@
 
 Demo 👉 https://willowy-heliotrope-70775e.netlify.app/
 
+This is a Signin/Signup clone of a famous website, it is powered by Reqres API and React Form Hook for validations.
+
 ## Prerequisites
 
 You will need Node.js version 8.0 or greater installed on your system.
@@ -36,3 +38,12 @@ docker compose up
 ```
 
 The app should now be up and running at http://localhost:3001 🚀
+
+##Tech Stack Used:
+Next JS
+React Bootstrap
+Bootstrap
+Docker
+API
+CSS
+HTML
