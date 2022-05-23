@@ -39,11 +39,14 @@ docker compose up
 
 The app should now be up and running at http://localhost:3001 🚀
 
-##Tech Stack Used:
+## Tech Stack Used:
+```
 Next JS
 React Bootstrap
 Bootstrap
 Docker
+Javascript
 API
 CSS
 HTML
+```
